@@ -13,5 +13,5 @@ I’m a passionate software engineer with a love for web development. I enjoy bu
 - [Task Management App](https://github.com/johnsmith/task-manager)
 
 ## 📬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/johnsmith/)
-- [Twitter](https://twitter.com/johnsmith)
+- [LinkedIn]((https://www.linkedin.com/in/manoj-k-850582242/))
+
